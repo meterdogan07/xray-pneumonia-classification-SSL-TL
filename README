@@ -1,0 +1,16 @@
+COMP448 - MEDICAL IMAGE ANALYSIS
+PROJECT CODE REPOSITORY
+
+Şebnem Demirtaş - 76813
+Mete Erdoğan - 69666
+
+The files in the repository includes the following directories and scripts:
+
+
+- loggers_aug_last: Contains the experiments for the Gradient Descent based models.
+
+- traşn_model_kfold.py: Contains the code to train Gradient Descent based models with data augmentation and k-fold cross validation.
+
+- COMP448_Project-data.ipynb: Contains the code to create and save the train and test datasets as pickle files. Applies CLAHE and mean, std normalization on the images.
+
+- COMP448_Project-ELM-kfold.ipynb: Contains the code to train Extreme Learning Machines (ELM) based models and perform tests. This notebook also loads and tests the Gradient Descent based models and calculates r-bowker tests on 7 models.
