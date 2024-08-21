@@ -21,8 +21,8 @@ Pneumonia is a critical respiratory infection, and early diagnosis is essential 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/meterdogan07/xray-pneumonia-classification-SSL-TL.git
+    xray-pneumonia-classification-SSL-TL
     ```
 
 2. Install dependencies:
