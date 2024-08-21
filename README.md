@@ -134,6 +134,9 @@ We evaluated the models using 5-fold cross-validation and reported the test set 
 - Caron et al., "Emerging Properties in Self-Supervised Vision Transformers", CVPR 2021.
 - Huang et al., "Extreme Learning Machine: A New Learning Scheme of Feedforward Neural Networks", Neurocomputing 2006.
 
+## Acknowledgments
+This work was done as part of the COMP448 - "Medical Image Analysis" course at Koç University. We would like to thank the course instructors and teaching assistants for their guidance.
+
 ## License
 
 This project is licensed under the MIT License.
